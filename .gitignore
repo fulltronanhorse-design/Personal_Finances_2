@@ -1,26 +1,23 @@
 ```
-# Backup and temporary files
-*/*.bak
-*.tmp
+# Compiled and build artifacts
+*.pyc
+__pycache__/
 
-# Environment and config files
+# Dependencies
+.venv/
+venv/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Environment
 .env
 .env.local
 *.env.*
 
-# Logs
-*.log
-
-# Data files that might be generated
-*/*.json
-*.csv
-
-# Uploads directory
-uploads/
-
-# Local backup directory
-backup/
-```node_modules/
-.next/
-dist/
-build/
+# Editors
+.vscode/
+.idea/
+```
