@@ -1,0 +1,117 @@
+{
+  "Food & Dining": [
+    "restaurant",
+    "cafe",
+    "starbucks",
+    "mcdonalds",
+    "pizza",
+    "burger",
+    "grill",
+    "bistro",
+    "diner",
+    "food",
+    "delivery",
+    "doordash",
+    "ubereats",
+    "coffee"
+  ],
+  "Groceries": [
+    "grocery",
+    "supermarket",
+    "walmart",
+    "target",
+    "costco",
+    "trader joe",
+    "whole foods",
+    "safeway",
+    "kroger",
+    "aldi"
+  ],
+  "Transportation": [
+    "uber",
+    "lyft",
+    "taxi",
+    "gas",
+    "fuel",
+    "parking",
+    "toll",
+    "metro",
+    "transit",
+    "airline",
+    "hotel"
+  ],
+  "Shopping": [
+    "amazon",
+    "ebay",
+    "mall",
+    "store",
+    "clothing",
+    "shoes",
+    "electronics",
+    "best buy",
+    "apple"
+  ],
+  "Entertainment": [
+    "netflix",
+    "spotify",
+    "movie",
+    "theater",
+    "concert",
+    "game",
+    "steam",
+    "playstation",
+    "xbox"
+  ],
+  "Bills & Utilities": [
+    "electric",
+    "water",
+    "gas",
+    "internet",
+    "phone",
+    "cable",
+    "utility",
+    "bill"
+  ],
+  "Healthcare": [
+    "pharmacy",
+    "doctor",
+    "hospital",
+    "clinic",
+    "dental",
+    "medical",
+    "cvs",
+    "walgreens"
+  ],
+  "Income": [
+    "salary",
+    "paycheck",
+    "deposit",
+    "transfer",
+    "refund",
+    "dividend",
+    "interest"
+  ],
+  "Investment": [
+    "brokerage",
+    "401k",
+    "ira",
+    "stock",
+    "bond",
+    "mutual fund",
+    "etf"
+  ],
+  "Fees & Charges": [
+    "fee",
+    "charge",
+    "penalty",
+    "late fee",
+    "overdraft",
+    "service charge"
+  ],
+  "Cash Withdrawal": [
+    "atm",
+    "withdrawal",
+    "cash back"
+  ],
+  "Uncategorized": []
+}

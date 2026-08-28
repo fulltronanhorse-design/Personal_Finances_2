@@ -1,0 +1,26 @@
+```
+# Backup and temporary files
+*/*.bak
+*.tmp
+
+# Environment and config files
+.env
+.env.local
+*.env.*
+
+# Logs
+*.log
+
+# Data files that might be generated
+*/*.json
+*.csv
+
+# Uploads directory
+uploads/
+
+# Local backup directory
+backup/
+```node_modules/
+.next/
+dist/
+build/
