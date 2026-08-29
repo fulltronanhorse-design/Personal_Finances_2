@@ -1,0 +1,66 @@
+[
+  {
+    "id": "e9afb5d005dd9a0852637c2c25260fb7",
+    "date": "2024-01-15",
+    "description": "Starbucks Coffee",
+    "amount": -5.5,
+    "category": "Food & Dining",
+    "source": "upload"
+  },
+  {
+    "id": "2745edb61d068f4102711effa2a0ef71",
+    "date": "2024-01-16",
+    "description": "Uber Ride",
+    "amount": -12.0,
+    "category": "Transportation",
+    "source": "upload"
+  },
+  {
+    "id": "f7685780c3a136d95b37ce08c73d40e2",
+    "date": "2024-01-17",
+    "description": "Whole Foods Market",
+    "amount": -85.32,
+    "category": "Food & Dining",
+    "source": "upload"
+  },
+  {
+    "id": "f3501564593cb2810857b208088cf0be",
+    "date": "2024-01-18",
+    "description": "Netflix Subscription",
+    "amount": -15.99,
+    "category": "Entertainment",
+    "source": "upload"
+  },
+  {
+    "id": "9c355a774130cb3deafcbbc0fa2159f4",
+    "date": "2024-01-19",
+    "description": "Payroll Direct Deposit",
+    "amount": 2500.0,
+    "category": "Income",
+    "source": "upload"
+  },
+  {
+    "id": "8a30d36d71bb62be7661637b5af3efa5",
+    "date": "2024-01-20",
+    "description": "Shell Gas Station",
+    "amount": -45.0,
+    "category": "Transportation",
+    "source": "upload"
+  },
+  {
+    "id": "f21976e5efb5215923eda999bec03043",
+    "date": "2024-01-21",
+    "description": "Amazon Purchase",
+    "amount": -67.89,
+    "category": "Shopping",
+    "source": "upload"
+  },
+  {
+    "id": "38834d9923c378b48b508ce7c316807f",
+    "date": "2024-01-22",
+    "description": "CVS Pharmacy",
+    "amount": -32.5,
+    "category": "Healthcare",
+    "source": "upload"
+  }
+]

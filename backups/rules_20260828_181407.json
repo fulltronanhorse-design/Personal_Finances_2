@@ -1,0 +1,79 @@
+{
+  "Food & Dining": [
+    "restaurant",
+    "cafe",
+    "starbucks",
+    "mcdonalds",
+    "pizza",
+    "grocery",
+    "supermarket",
+    "trader joe",
+    "whole foods"
+  ],
+  "Transportation": [
+    "uber",
+    "lyft",
+    "taxi",
+    "gas",
+    "shell",
+    "exxon",
+    "parking",
+    "toll",
+    "transit",
+    "metro"
+  ],
+  "Utilities": [
+    "electric",
+    "water",
+    "gas utility",
+    "internet",
+    "comcast",
+    "verizon",
+    "phone bill",
+    "mobile"
+  ],
+  "Entertainment": [
+    "netflix",
+    "spotify",
+    "cinema",
+    "movie",
+    "theater",
+    "concert",
+    "game",
+    "steam"
+  ],
+  "Shopping": [
+    "amazon",
+    "target",
+    "walmart",
+    "clothing",
+    "shoes",
+    "electronics",
+    "best buy"
+  ],
+  "Healthcare": [
+    "pharmacy",
+    "cvs",
+    "walgreens",
+    "doctor",
+    "hospital",
+    "dentist",
+    "vision"
+  ],
+  "Income": [
+    "payroll",
+    "direct deposit",
+    "salary",
+    "refund",
+    "dividend",
+    "interest"
+  ],
+  "Fees & Charges": [
+    "fee",
+    "penalty",
+    "late charge",
+    "service charge",
+    "atm fee"
+  ],
+  "Uncategorized": []
+}
